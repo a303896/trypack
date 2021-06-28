@@ -6,5 +6,10 @@ class SayHello {
 	{
 		echo 'Hello Composer!!!';
 	}
+	
+	public static function say2()
+	{
+		echo 'yes I\'m updated !!!';
+	}
 }
 ?>
