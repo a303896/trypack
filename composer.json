@@ -6,5 +6,10 @@
             "email": "303896522@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "trypack\\": "src/"
+        }
+    }
 }
